@@ -1,0 +1,10 @@
+/home/steven/gg/bin/Debug/netcoreapp2.0/gg.deps.json
+/home/steven/gg/bin/Debug/netcoreapp2.0/gg.runtimeconfig.json
+/home/steven/gg/bin/Debug/netcoreapp2.0/gg.runtimeconfig.dev.json
+/home/steven/gg/bin/Debug/netcoreapp2.0/gg.dll
+/home/steven/gg/bin/Debug/netcoreapp2.0/gg.pdb
+/home/steven/gg/obj/Debug/netcoreapp2.0/gg.csproj.CoreCompileInputs.cache
+/home/steven/gg/obj/Debug/netcoreapp2.0/gg.AssemblyInfoInputs.cache
+/home/steven/gg/obj/Debug/netcoreapp2.0/gg.AssemblyInfo.cs
+/home/steven/gg/obj/Debug/netcoreapp2.0/gg.dll
+/home/steven/gg/obj/Debug/netcoreapp2.0/gg.pdb
